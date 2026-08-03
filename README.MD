@@ -93,7 +93,6 @@ Presionar `F5`. La Api debería quedar escuchando en `http://localhost:5199`.
 ### 4. Levantar el dashboard (React)
 
 ```bash
-git clone 
 git clone https://github.com/windows4free/delivery-dashboard.git
 ```
 
